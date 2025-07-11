@@ -1,0 +1,26 @@
+input_text,expected_output,explanation,model_output,model_explanation
+Studies have shown improved mobility in 80% of patients after using this device.,Compliant,Statement is evidence-based and includes statistical reference.,Compliant,
+This medication is approved by the FDA for the treatment of high blood pressure.,Compliant,Accurate regulatory reference and factual claim.,Compliant,
+"In a randomized trial, this drug reduced migraine frequency by 40%.",Compliant,Supported by clinical trial data.,Compliant,
+This product supports healthy liver function when used as directed.,Compliant,"Supportive language, avoids treatment/cure claims.",Compliant,
+May help reduce symptoms associated with seasonal allergies.,Compliant,"Uses cautious language ('may help'), no definitive claims.",Compliant,
+This diagnostic tool assists doctors in identifying early signs of cancer.,Compliant,"Describes function, does not make unsupported clinical claims.",Compliant,
+Contains ingredients traditionally used to promote digestive health.,Compliant,"Clearly refers to traditional use, not current clinical claims.",Compliant,
+"Used alongside standard therapy, it showed no significant adverse effects.",Compliant,"Fact-based, refers to safety profile without exaggeration.",Compliant,
+Shown to improve joint flexibility in clinical testing.,Compliant,Backs claim with clinical evidence.,Compliant,
+Clinically tested for skin sensitivity and irritation.,Compliant,General testing claim without making medical promises.,Compliant,
+Clinical studies show this knee surgery has a 95% success rate.,Compliant,Backed by clinical trial data.,Compliant,
+This vaccine is 100% safe for everyone.,Non-Compliant,Absolute safety claims are prohibited.,Non-compliant,"The claim of '100% safe' is exaggerated and unverifiable. Vaccines, like all medical products, cannot be 100% safe for everyone due to individual factors."
+Our device cures back pain permanently.,Non-Compliant,The word 'cure' and 'permanently' are considered misleading without evidence.,Non-compliant,"The claim implies a permanent cure, which is an absolute phrase and may be exaggerated or misleading."
+Better than any other asthma treatment available.,Non-Compliant,Comparative superlative requires strong substantiation.,Non-compliant,Unsupported superiority claim
+This herb eliminates all chances of stroke.,Non-Compliant,Misleading and absolute prevention claim.,Non-compliant,"This claim is an absolute statement that is not supported by evidence and is likely exaggerated. It also implies a guarantee of 100% effectiveness, which is not permitted by FDA regulations."
+Guaranteed to prevent cancer if taken daily.,Non-Compliant,Guarantees and prevention claims are non-compliant without strong proof.,Non-compliant,"The claim 'Guaranteed to prevent cancer' implies a 100% effectiveness rate, which is an absolute, exaggerated, and unverifiable phrase."
+Instantly reverses aging signs after one use!,Non-Compliant,Misleading time-bound and superlative claim.,Non-compliant,"Claim includes an absolute and exaggerated phrase ('instantly reverses aging signs'), and lacks peer-reviewed clinical substantiation."
+Proven to be the #1 cure for anxiety.,Non-Compliant,“#1 cure” and “proven” require comparative evidence and regulatory approval.,Non-compliant,The claim includes an absolute and exaggerated phrase ('#1 cure') that may be misleading.
+This cream is more effective than prescription drugs.,Non-Compliant,Prescription comparisons must be backed by clinical trials and approval.,Non-compliant,Unsupported superiority claim
+You’ll never get sick again with this immune booster.,Non-Compliant,Overpromises health benefits; lacks disclaimer or evidence.,Non-compliant,"Claim implies 100% effectiveness, which is an absolute and exaggerated statement."
+Safe for pregnant women and children of all ages.,Non-Compliant,Safety claims for vulnerable groups must be scientifically validated and regulated.,Compliant,
+This drug guarantees 100% effectiveness in curing diabetes.,Non-Compliant,Absolute claims are not allowed.,Non-compliant,"Claim makes absolute and exaggerated effectiveness statement, implying 'cures all' and violating rule 8."
+Our pain relief cream is the most advanced in the world!,Non-Compliant,Superlative claims need supporting evidence.,Non-compliant,Making an unsupported superiority claim over other products in the market is not allowed.
+This supplement will prevent heart attacks.,Non-Compliant,Medical claims require proper disclaimers.,Non-compliant,"Claims that imply a product can 'prevent' a serious condition like a heart attack are typically considered drug claims, which require FDA approval and cannot be made by supplements. Such claims are also overly absolute and lack any mention of risk disclosures."
+This treatment is better than all others available.,Non-Compliant,Comparative claims must be evidence-based.,Non-compliant,"This claim makes an unsupported superiority claim, which is not permitted under U.S. FDA regulations."

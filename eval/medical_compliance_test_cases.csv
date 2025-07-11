@@ -1,0 +1,26 @@
+input_text,expected_output,explanation
+Studies have shown improved mobility in 80% of patients after using this device.,Compliant,Statement is evidence-based and includes statistical reference.
+This medication is approved by the FDA for the treatment of high blood pressure.,Compliant,Accurate regulatory reference and factual claim.
+"In a randomized trial, this drug reduced migraine frequency by 40%.",Compliant,Supported by clinical trial data.
+This product supports healthy liver function when used as directed.,Compliant,"Supportive language, avoids treatment/cure claims."
+May help reduce symptoms associated with seasonal allergies.,Compliant,"Uses cautious language ('may help'), no definitive claims."
+This diagnostic tool assists doctors in identifying early signs of cancer.,Compliant,"Describes function, does not make unsupported clinical claims."
+Contains ingredients traditionally used to promote digestive health.,Compliant,"Clearly refers to traditional use, not current clinical claims."
+"Used alongside standard therapy, it showed no significant adverse effects.",Compliant,"Fact-based, refers to safety profile without exaggeration."
+Shown to improve joint flexibility in clinical testing.,Compliant,Backs claim with clinical evidence.
+Clinically tested for skin sensitivity and irritation.,Compliant,General testing claim without making medical promises.
+Clinical studies show this knee surgery has a 95% success rate.,Compliant,Backed by clinical trial data.
+This vaccine is 100% safe for everyone.,Non-Compliant,Absolute safety claims are prohibited.
+Our device cures back pain permanently.,Non-Compliant,The word 'cure' and 'permanently' are considered misleading without evidence.
+Better than any other asthma treatment available.,Non-Compliant,Comparative superlative requires strong substantiation.
+This herb eliminates all chances of stroke.,Non-Compliant,Misleading and absolute prevention claim.
+Guaranteed to prevent cancer if taken daily.,Non-Compliant,Guarantees and prevention claims are non-compliant without strong proof.
+Instantly reverses aging signs after one use!,Non-Compliant,Misleading time-bound and superlative claim.
+Proven to be the #1 cure for anxiety.,Non-Compliant,“#1 cure” and “proven” require comparative evidence and regulatory approval.
+This cream is more effective than prescription drugs.,Non-Compliant,Prescription comparisons must be backed by clinical trials and approval.
+You’ll never get sick again with this immune booster.,Non-Compliant,Overpromises health benefits; lacks disclaimer or evidence.
+Safe for pregnant women and children of all ages.,Non-Compliant,Safety claims for vulnerable groups must be scientifically validated and regulated.
+This drug guarantees 100% effectiveness in curing diabetes.,Non-Compliant,Absolute claims are not allowed.
+Our pain relief cream is the most advanced in the world!,Non-Compliant,Superlative claims need supporting evidence.
+This supplement will prevent heart attacks.,Non-Compliant,Medical claims require proper disclaimers.
+This treatment is better than all others available.,Non-Compliant,Comparative claims must be evidence-based.
